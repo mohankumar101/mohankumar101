@@ -2,7 +2,8 @@
 - 
 - 👀 I’m fascinated about tech developments. I start my career in 2009 as systems engineer, work on Web hosting projects. Move into a full web support role. 
 - Learn more products, infra design. I try network side of things in my career, get back into Web, Orchestration platforms etc. 
-- In parallel, a second universe evolved. Its so humbling to see how IT evolves quickly and how easy it is to get lost if you dont keep up. I 
+- 
+- In parallel, a second universe evolved. Its so humbling to see how IT evolves quickly and how easy it is to get lost if we dont keep up. 
 - 
 - 🌱 I’m currently learning Cloud/K8s/sharperning python skills
 - 
